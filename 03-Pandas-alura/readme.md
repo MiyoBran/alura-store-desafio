@@ -6,6 +6,8 @@ Este es el proximo curso que realizare dentro de la ruta de Data Science.
 Aplicar los recursos principales de Pandas para analizar datos y construir un proyecto
 con resultados claros y reproducibles.
 
+[Trello del curso](https://trello.com/b/UETmy48P/formacion-fundamentos-de-python-para-datos)
+
 ## Lo que voy a aprender
 - Cargar y explorar datos con Pandas.
 - Seleccionar y filtrar informacion relevante.
